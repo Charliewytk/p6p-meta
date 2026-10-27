@@ -1,0 +1,7 @@
+{
+ "name": "Exit Liquidity",
+ "symbol": "EXLIQ",
+ "description": "You are the exit liquidity. So are we. 14 wallets, 45 seconds, one curve.",
+ "image": "https://raw.githubusercontent.com/Charliewytk/p6p-meta/main/meta/exliq.png",
+ "extensions": {}
+}
